@@ -1,0 +1,5 @@
+/.idea/
+/azera-backend
+database.db
+go.mod
+go.sum
